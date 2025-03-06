@@ -134,8 +134,8 @@ StockWave is an **excellent project for developers, finance enthusiasts, and stu
 
 💡 **Have ideas for improvement? Want to collaborate? Reach out!**  
 
-📩 **Email**: [your.email@example.com](mailto:your.email@example.com)  
-🔗 **LinkedIn**: [YourLinkedInProfile](https://www.linkedin.com)  
+📩 **Email**: [aasthasan153@gmail.com](mailto:your.email@example.com)  
+🔗 **LinkedIn**: Aastha Sangani(https://www.linkedin.com/in/aastha-sangani/))  
 
 ---
 
