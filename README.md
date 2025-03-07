@@ -93,7 +93,7 @@ Whether you are looking to **build a finance-based application, explore predicti
 
 1️⃣ **Clone the Repository**  
    ```bash
-   git clone https://github.com/YourUsername/StockWave.git
+   git clone https://github.com/aastha-5103/StockWave.git
    ```  
 2️⃣ **Open in Visual Studio**  
    - Locate and open the `StockWave.sln` file.  
@@ -128,16 +128,3 @@ While **StockWave is not a trading platform**, it is a **valuable learning tool*
 
 StockWave is an **excellent project for developers, finance enthusiasts, and students looking to blend programming and stock market analysis** in a meaningful way.
 
----
-
-## **Contact & Contributions**  
-
-💡 **Have ideas for improvement? Want to collaborate? Reach out!**  
-
-📩 **Email**: [aasthasan153@gmail.com](mailto:your.email@example.com)  
-🔗 **LinkedIn**: Aastha Sangani(https://www.linkedin.com/in/aastha-sangani/))  
-
----
-
-If you find **StockWave** useful, **give this repository a ⭐ star!**  
-Happy coding, and may your market predictions be strong! 🚀📊
