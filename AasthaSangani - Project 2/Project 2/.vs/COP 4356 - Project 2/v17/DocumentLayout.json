@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aasth\\Downloads\\AasthaSangani - Project 2\\Project 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C67515F-4653-4243-990B-70988A122147}|WindowsFormsApp COP 4365\\COP 4356 - Project 2.csproj|c:\\users\\aasth\\downloads\\aasthasangani - project 2\\project 2\\windowsformsapp cop 4365\\displaystock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C67515F-4653-4243-990B-70988A122147}|WindowsFormsApp COP 4365\\COP 4356 - Project 2.csproj|solutionrelative:windowsformsapp cop 4365\\displaystock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C67515F-4653-4243-990B-70988A122147}|WindowsFormsApp COP 4365\\COP 4356 - Project 2.csproj|C:\\Users\\aasth\\Downloads\\AasthaSangani - Project 2\\Project 2\\windowsformsapp cop 4365\\displaystock.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C67515F-4653-4243-990B-70988A122147}|WindowsFormsApp COP 4365\\COP 4356 - Project 2.csproj|solutionrelative:windowsformsapp cop 4365\\displaystock.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C67515F-4653-4243-990B-70988A122147}|WindowsFormsApp COP 4365\\COP 4356 - Project 2.csproj|C:\\Users\\aasth\\Downloads\\AasthaSangani - Project 2\\Project 2\\windowsformsapp cop 4365\\displaystock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C67515F-4653-4243-990B-70988A122147}|WindowsFormsApp COP 4365\\COP 4356 - Project 2.csproj|solutionrelative:windowsformsapp cop 4365\\displaystock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C67515F-4653-4243-990B-70988A122147}|WindowsFormsApp COP 4365\\COP 4356 - Project 2.csproj|C:\\Users\\aasth\\Downloads\\AasthaSangani - Project 2\\Project 2\\WindowsFormsApp COP 4365\\Candlestick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C67515F-4653-4243-990B-70988A122147}|WindowsFormsApp COP 4365\\COP 4356 - Project 2.csproj|solutionrelative:WindowsFormsApp COP 4365\\Candlestick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C67515F-4653-4243-990B-70988A122147}|WindowsFormsApp COP 4365\\COP 4356 - Project 2.csproj|C:\\Users\\aasth\\Downloads\\AasthaSangani - Project 2\\Project 2\\WindowsFormsApp COP 4365\\SmartCandlestick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C67515F-4653-4243-990B-70988A122147}|WindowsFormsApp COP 4365\\COP 4356 - Project 2.csproj|solutionrelative:WindowsFormsApp COP 4365\\SmartCandlestick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "displayStock.cs",
+              "DocumentMoniker": "C:\\Users\\aasth\\Downloads\\AasthaSangani - Project 2\\Project 2\\WindowsFormsApp COP 4365\\displayStock.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp COP 4365\\displayStock.cs",
+              "ToolTip": "C:\\Users\\aasth\\Downloads\\AasthaSangani - Project 2\\Project 2\\WindowsFormsApp COP 4365\\displayStock.cs",
+              "RelativeToolTip": "WindowsFormsApp COP 4365\\displayStock.cs",
+              "ViewState": "AgIAANUBAAAAAAAAAAAAwNoBAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:25:42.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "displayStock.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\aasth\\Downloads\\AasthaSangani - Project 2\\Project 2\\WindowsFormsApp COP 4365\\displayStock.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp COP 4365\\displayStock.Designer.cs",
+              "ToolTip": "C:\\Users\\aasth\\Downloads\\AasthaSangani - Project 2\\Project 2\\WindowsFormsApp COP 4365\\displayStock.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp COP 4365\\displayStock.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T21:18:18.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Candlestick.cs",
+              "DocumentMoniker": "C:\\Users\\aasth\\Downloads\\AasthaSangani - Project 2\\Project 2\\WindowsFormsApp COP 4365\\Candlestick.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp COP 4365\\Candlestick.cs",
+              "ToolTip": "C:\\Users\\aasth\\Downloads\\AasthaSangani - Project 2\\Project 2\\WindowsFormsApp COP 4365\\Candlestick.cs",
+              "RelativeToolTip": "WindowsFormsApp COP 4365\\Candlestick.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:25:09.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SmartCandlestick.cs",
+              "DocumentMoniker": "C:\\Users\\aasth\\Downloads\\AasthaSangani - Project 2\\Project 2\\WindowsFormsApp COP 4365\\SmartCandlestick.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp COP 4365\\SmartCandlestick.cs",
+              "ToolTip": "C:\\Users\\aasth\\Downloads\\AasthaSangani - Project 2\\Project 2\\WindowsFormsApp COP 4365\\SmartCandlestick.cs",
+              "RelativeToolTip": "WindowsFormsApp COP 4365\\SmartCandlestick.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAewAwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T20:05:03.663Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "a8402d46-8143-4ee6-b995-6bd1e7dc1d54",
+        "Display": 0,
+        "X": 7,
+        "Y": 85,
+        "Width": 1034,
+        "Height": 420,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "displayStock.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aasth\\Downloads\\AasthaSangani - Project 2\\Project 2\\WindowsFormsApp COP 4365\\displayStock.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp COP 4365\\displayStock.cs",
+              "ToolTip": "C:\\Users\\aasth\\Downloads\\AasthaSangani - Project 2\\Project 2\\WindowsFormsApp COP 4365\\displayStock.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp COP 4365\\displayStock.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T03:51:37.684Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

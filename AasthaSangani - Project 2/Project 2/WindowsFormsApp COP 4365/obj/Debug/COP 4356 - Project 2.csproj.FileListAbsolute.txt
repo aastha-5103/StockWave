@@ -1,0 +1,30 @@
+C:\Users\harsh\OneDrive\Desktop\Project 2\WindowsFormsApp COP 4365\bin\Debug\WindowsFormsApp COP 4365.exe.config
+C:\Users\harsh\OneDrive\Desktop\Project 2\WindowsFormsApp COP 4365\bin\Debug\WindowsFormsApp COP 4365.exe
+C:\Users\harsh\OneDrive\Desktop\Project 2\WindowsFormsApp COP 4365\bin\Debug\WindowsFormsApp COP 4365.pdb
+C:\Users\harsh\OneDrive\Desktop\Project 2\WindowsFormsApp COP 4365\obj\Debug\COP 4356 - Project 2.csproj.AssemblyReference.cache
+C:\Users\harsh\OneDrive\Desktop\Project 2\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp_COP_4365.Form_StockViewer.resources
+C:\Users\harsh\OneDrive\Desktop\Project 2\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp_COP_4365.Properties.Resources.resources
+C:\Users\harsh\OneDrive\Desktop\Project 2\WindowsFormsApp COP 4365\obj\Debug\COP 4356 - Project 2.csproj.GenerateResource.cache
+C:\Users\harsh\OneDrive\Desktop\Project 2\WindowsFormsApp COP 4365\obj\Debug\COP 4356 - Project 2.csproj.CoreCompileInputs.cache
+C:\Users\harsh\OneDrive\Desktop\Project 2\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.exe
+C:\Users\harsh\OneDrive\Desktop\Project 2\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.pdb
+C:\Users\aasth\Downloads\Project 2 Harshit\Project 2\WindowsFormsApp COP 4365\bin\Debug\WindowsFormsApp COP 4365.exe.config
+C:\Users\aasth\Downloads\Project 2 Harshit\Project 2\WindowsFormsApp COP 4365\bin\Debug\WindowsFormsApp COP 4365.exe
+C:\Users\aasth\Downloads\Project 2 Harshit\Project 2\WindowsFormsApp COP 4365\bin\Debug\WindowsFormsApp COP 4365.pdb
+C:\Users\aasth\Downloads\Project 2 Harshit\Project 2\WindowsFormsApp COP 4365\obj\Debug\COP 4356 - Project 2.csproj.AssemblyReference.cache
+C:\Users\aasth\Downloads\Project 2 Harshit\Project 2\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp_COP_4365.Properties.Resources.resources
+C:\Users\aasth\Downloads\Project 2 Harshit\Project 2\WindowsFormsApp COP 4365\obj\Debug\COP 4356 - Project 2.csproj.GenerateResource.cache
+C:\Users\aasth\Downloads\Project 2 Harshit\Project 2\WindowsFormsApp COP 4365\obj\Debug\COP 4356 - Project 2.csproj.CoreCompileInputs.cache
+C:\Users\aasth\Downloads\Project 2 Harshit\Project 2\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.exe
+C:\Users\aasth\Downloads\Project 2 Harshit\Project 2\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.pdb
+C:\Users\aasth\Downloads\Project 2 Harshit\Project 2\WindowsFormsApp COP 4365\obj\Debug\proj_2.displayStock.resources
+C:\Users\aasth\Downloads\AasthaSangani - Project 2\Project 2\WindowsFormsApp COP 4365\obj\Debug\COP 4356 - Project 2.csproj.AssemblyReference.cache
+C:\Users\aasth\Downloads\AasthaSangani - Project 2\Project 2\WindowsFormsApp COP 4365\obj\Debug\proj_2.displayStock.resources
+C:\Users\aasth\Downloads\AasthaSangani - Project 2\Project 2\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp_COP_4365.Properties.Resources.resources
+C:\Users\aasth\Downloads\AasthaSangani - Project 2\Project 2\WindowsFormsApp COP 4365\obj\Debug\COP 4356 - Project 2.csproj.GenerateResource.cache
+C:\Users\aasth\Downloads\AasthaSangani - Project 2\Project 2\WindowsFormsApp COP 4365\obj\Debug\COP 4356 - Project 2.csproj.CoreCompileInputs.cache
+C:\Users\aasth\Downloads\AasthaSangani - Project 2\Project 2\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.exe
+C:\Users\aasth\Downloads\AasthaSangani - Project 2\Project 2\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.pdb
+C:\Users\aasth\Downloads\AasthaSangani - Project 2\Project 2\WindowsFormsApp COP 4365\bin\Debug\WindowsFormsApp COP 4365.exe.config
+C:\Users\aasth\Downloads\AasthaSangani - Project 2\Project 2\WindowsFormsApp COP 4365\bin\Debug\WindowsFormsApp COP 4365.exe
+C:\Users\aasth\Downloads\AasthaSangani - Project 2\Project 2\WindowsFormsApp COP 4365\bin\Debug\WindowsFormsApp COP 4365.pdb
